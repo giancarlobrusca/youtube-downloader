@@ -1,5 +1,8 @@
 # YouTube Video Downloader and Clipper
 
+> A simple web application to download videos from YouTube and clip them. Only works locally because
+> its too expensive to host.
+
 ## Features
 
 - Download videos from YouTube
