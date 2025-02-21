@@ -1,5 +1,5 @@
 flask==2.3.3
 werkzeug==2.3.7
-pytube==15.0.0
+pytubefix==8.12.1
 moviepy==1.0.3
 gunicorn==21.2.0
